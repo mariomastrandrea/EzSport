@@ -1,5 +1,5 @@
-# Mobile Application Development - Repo
-The collection of labs and the exam project repos related to the course of Mobile Application Development at Politecnico di Torino, a.y. 2022-2023
+# Project
+Exam project repo related to the Mobile Application Development course at Politecnico di Torino, a.y. 2022-2023
 
 ## Group members
 - Francesco Rosati
